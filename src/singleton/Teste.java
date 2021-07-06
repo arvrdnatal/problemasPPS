@@ -6,4 +6,7 @@ public class Teste {
 
     // segunda e terceira forma
     Escola escola = Escola.getInstance();
+
+    // com enum
+    EscolaEnum escolaEnum = EscolaEnum.INSTANCE;
 }
