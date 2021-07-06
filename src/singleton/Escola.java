@@ -20,7 +20,7 @@ package singleton;
     }
 }*/
 
-// terceira forma
+// terceira forma e mais usada
 public class Escola {
     private static Escola INSTANCE = null;
 
