@@ -18,6 +18,6 @@ public class Cliente {
     }
 
     public void mostrar() {
-        System.out.println(nome + " - " + tipo.toString());
+        System.out.println(nome + " - " + tipo.getNome());
     }
 }
